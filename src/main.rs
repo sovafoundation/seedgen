@@ -51,3 +51,4 @@ fn main() {
     seed.zeroize();
     // xprv/xpub strings are zeroized on drop by the Zeroizing wrapper
 }
+
